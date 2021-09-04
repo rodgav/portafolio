@@ -1,0 +1,75 @@
+{
+  "works": [
+    {
+      "name": "Juliaca Store",
+      "description": "Aplicación de compra y venta, mediante chats con contacto de vendedor a cliente y viceversa",
+      "asset": "",
+      "state": "Finalizado",
+      "url": "",
+      "accomplished": "Flutter v1",
+      "backend": [
+        "FireStore",
+        "FireStorage"
+      ]
+    },
+    {
+      "name": "CEDTODO v1",
+      "description": "Aplicación de compra, entrega de todo.",
+      "asset": "",
+      "state": "Finalizado.",
+      "url": "",
+      "accomplished": "Flutter v1.",
+      "backend": [
+        "PHP",
+        "MySql"
+      ]
+    },
+    {
+      "name": "Aguachilon",
+      "description": "Aplicación de cevicheria, cuenta con gestion de entregas",
+      "asset": "",
+      "state": "Retomando.",
+      "url": "",
+      "accomplished": "Flutter v2.",
+      "backend": [
+        "FireStore",
+        "FireStorage"
+      ]
+    },
+    {
+      "name": "CEDTODO V2",
+      "description": "Aplicación de compra, entrega de todo.",
+      "asset": "",
+      "state": "Mantenimiento.",
+      "url": "",
+      "accomplished": "Flutter v2.",
+      "backend": [
+        "MongoDB",
+        "NodeJS"
+      ]
+    },
+    {
+      "name": "Notaria Cesar Gonzales",
+      "description": "Aplicación estatica de la Notaria Cesar Gonzales",
+      "asset": "",
+      "state": "Finalizada.",
+      "url": "",
+      "accomplished": "Flutter v2.",
+      "backend": [
+        "JSON"
+      ]
+    },
+    {
+      "name": "JuergaGo",
+      "description": "Aplicación de centros de diversion y bebidas",
+      "asset": "",
+      "state": "Finalizada-Espera",
+      "url": "",
+      "accomplished": "Flutter v2.",
+      "backend": [
+        "MongoDB",
+        "NodeJS"
+      ]
+    }
+  ]
+}
