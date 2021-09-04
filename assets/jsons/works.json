@@ -44,7 +44,8 @@
       "url": "",
       "accomplished": "Flutter v2.",
       "backend": [
-        "private"
+        "MongoDB",
+        "NodeJS"
       ]
     },
     {
@@ -66,7 +67,8 @@
       "url": "",
       "accomplished": "Flutter v2.",
       "backend": [
-        "private"
+        "MongoDB",
+        "NodeJS"
       ]
     }
   ]
